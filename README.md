@@ -44,39 +44,61 @@ I build scalable backend systems, explore cloud architectures, and experiment wi
 
 
 
-### 💼 Experience & Verified Credentials
+### 💼 Experience & Professional Certifications
 
 <details open>
-<summary><b>Artificial Intelligence Intern | Codec Technologies Pvt. Ltd.</b> <i>(May 2026 – Jun 2026)</i></summary>
+<summary><b>1. Artificial Intelligence Intern | Codec Technologies Pvt. Ltd.</b> <i>(May 2026 – Jun 2026)</i></summary>
 <br/>
 
 [![AICTE Approved](https://img.shields.io/badge/AICTE%20%26%20ICAC-Approved-brightgreen?style=flat-square)](https://internship.aicte-india.org/)
 [![Google Partner](https://img.shields.io/badge/Google%20for%20Education-Partner-blue?style=flat-square&logo=google)](https://edu.google.com/)
 
-* **Program:** 1-Month AICTE & ICAC Approved Internship via National Internship Portal (Ministry of Education)
-* **Role:** Artificial Intelligence Intern
-* **Timeline:** 21/05/2026 – 10/06/2026
-* **Verification ID:** `CORPORATE6759d549ce59e1733940553`
-* **Focus Areas:** Python backend microservices, REST APIs, and automated conversational assistants.
-* **Project Repository:** [Codect-Python-Internship-Projects](https://github.com/khanboy7170-ux/Codect-Python-Internship-Projects)
-* 📜 **[View Official AICTE Portal Certificate](https://drive.google.com/file/d/1yznohwx1w6TVbfJrjGXpG3WARR6_mfs2/view?usp=drivesdk)**
-* 📄 **[View Codec Technologies Company Certificate](https://drive.google.com/file/d/1HqCyJD_rF8d_AwR5cr1Lqhi-E0SRfkqN/view?usp=drivesdk)**
+* **Program:** 1-Month AICTE & ICAC Approved Internship via National Internship Portal (Ministry of Education)[span_0](start_span)[span_0](end_span)
+* **Timeline:** 21/05/2026 – 10/06/2026[span_1](start_span)[span_1](end_span)
+* **AICTE Verification ID:** `CORPORATE6759d549ce59e1733940553`[span_2](start_span)[span_2](end_span)
+* **Core Responsibilities:**
+  * Designed lightweight conversational AI architectures and intent-matching pipelines.
+  * Engineered rule-based support bot modules with structured JSON response payloads.
+  * Handled query routing and automated fallback mechanisms for technical customer support.
+
+[![View AI Certificate](https://img.shields.io/badge/View_AICTE_Certificate-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yznohwx1w6TVbfJrjGXpG3WARR6_mfs2/view?usp=drivesdk)
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>NPTEL Certification | Digital Circuits & Hardware Modeling in Verilog</b> <i>(SWAYAM / IIT)</i></summary>
+<summary><b>2. Python Developer Intern | Codec Technologies Pvt. Ltd.</b></summary>
 <br/>
 
-[![NPTEL](https://img.shields.io/badge/NPTEL%20%2F%20SWAYAM-Certified-orange?style=flat-square)](https://nptel.ac.in/)
-[![Verilog](https://img.shields.io/badge/Hardware-Verilog%20HDL-blue?style=flat-square)](https://en.wikipedia.org/wiki/Verilog)
+[![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Framework-Flask-black?style=flat-square&logo=flask&logoColor=white)](#)
+
+* **Domain:** Python Backend Engineering & Microservices
+* **Core Responsibilities:**
+  * Developed secure REST APIs using Flask with JSON Web Token (JWT) route authentication.
+  * Implemented secure password hashing, session payload validation, and CORS handling.
+  * Built automation scripts for data sanitization, request throttling, and payload formatting.
+* **Source Repository:** [Codect-Python-Internship-Projects](https://github.com/khanboy7170-ux/Codect-Python-Internship-Projects)
+
+[![View Python Certificate](https://img.shields.io/badge/View_Python_Certificate-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HqCyJD_rF8d_AwR5cr1Lqhi-E0SRfkqN/view?usp=drivesdk)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>3. NPTEL Certification | Digital Circuits & Hardware Modeling in Verilog</b></summary>
+<br/>
+
+[![NPTEL](https://img.shields.io/badge/NPTEL%20%2F%20SWAYAM-IIT_Certified-orange?style=flat-square)](https://nptel.ac.in/)
+[![Verilog](https://img.shields.io/badge/Language-Verilog_HDL-blue?style=flat-square)](https://en.wikipedia.org/wiki/Verilog)
 
 * **Issuing Authority:** NPTEL, Ministry of Education (Govt. of India)
-* **Domain:** Digital System Design & Hardware Description Language (HDL)
-* **Core Competencies:** Verilog HDL, RTL Design, Combinational & Sequential Logic, Finite State Machines (FSM), and Simulation.
-* 📜 **[View Verified NPTEL Certificate](https://drive.google.com/file/d/1kUBNSIjP8ZnXqcnjrCgX9OQ1K1IABbzv/view?usp=drivesdk)**
+* **Domain:** Digital Logic Design & Hardware Description Language (HDL)
+* **Core Competencies:** Verilog HDL, RTL Design, Combinational & Sequential Logic minimization, and Finite State Machines (FSM).
+
+[![View NPTEL Certificate](https://img.shields.io/badge/View_NPTEL_Certificate-Google_Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kUBNSIjP8ZnXqcnjrCgX9OQ1K1IABbzv/view?usp=drivesdk)
 
 </details>
 
