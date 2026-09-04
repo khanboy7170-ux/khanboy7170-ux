@@ -41,3 +41,34 @@ I build scalable backend systems, explore cloud architectures, and experiment wi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.boy.7170@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khan_boy_01kb)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1MH2Vzi5gb/)
+### 💼 Experience & Verified Credentials
+
+<details open>
+<summary><b>Artificial Intelligence Intern | Codec Technologies Pvt. Ltd.</b> <i>(May 2026 – Jun 2026)</i></summary>
+<br/>
+
+[![AICTE Approved](https://img.shields.io/badge/AICTE%20%26%20ICAC-Approved-brightgreen?style=flat-square)](https://internship.aicte-india.org/)
+[![Google Partner](https://img.shields.io/badge/Google%20for%20Education-Partner-blue?style=flat-square&logo=google)](https://edu.google.com/)
+
+* **Program:** 1-Month AICTE & ICAC Approved Internship via National Internship Portal (Ministry of Education)
+* **Role:** Artificial Intelligence Intern
+* **Timeline:** 21/05/2026 – 10/06/2026
+* **Verification ID:** `CORPORATE6759d549ce59e1733940553`
+* **Work Area:** Python backend microservices, REST APIs, and automated conversational assistants.
+* **Project Repository:** [Codect-Python-Internship-Projects](https://github.com/khanboy7170-ux/Codect-Python-Internship-Projects)
+* 📜 **[View Verified AICTE Internship Certificate](https://drive.google.com/file/d/1yznohwx1w6TVbfJrjGXpG3WARR6_mfs2/view?usp=drivesdk)**
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📜 Additional Certifications & Achievements</b></summary>
+<br/>
+
+* 📄 **[View Certificate 2](https://drive.google.com/file/d/1HqCyJD_rF8d_AwR5cr1Lqhi-E0SRfkqN/view?usp=drivesdk)**
+* 📄 **[View Certificate 3](https://drive.google.com/file/d/1kUBNSIjP8ZnXqcnjrCgX9OQ1K1IABbzv/view?usp=drivesdk)**
+
+</details>
+
+---
