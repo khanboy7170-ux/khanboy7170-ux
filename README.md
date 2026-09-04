@@ -21,10 +21,9 @@ I build scalable backend systems, explore cloud architectures, and experiment wi
 
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanboy7170-ux&show_icons=true&theme=github_dark&hide_border=true" alt="Mohammed's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy7170-ux&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanboy7170-ux&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy7170-ux&layout=compact&theme=dark)
 
 ---
 
