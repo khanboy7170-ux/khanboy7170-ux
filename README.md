@@ -19,13 +19,14 @@ I build scalable backend systems, explore cloud architectures, and experiment wi
 
 ---
 
-### 📊 GitHub Streak & Activity
+### 📊 GitHub Activity & Overview
 
 ![Mohammed's GitHub Streak](https://streak-stats.demolab.com/?user=khanboy7170-ux&theme=dark&hide_border=true)
 
-![Mohammed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanboy7170-ux&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=B.Tech+CS-AI+Student;Python+%26+Backend+Developer;Exploring+Cloud+%26+Distributed+Systems;ROS+2+%26+Robotics+Enthusiast" alt="Typing SVG" />
+</p>
 
----
 
 ### 📌 Current Focus
 - 🔭 Working on: Secure REST APIs & Authentication microservices
