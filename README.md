@@ -52,9 +52,9 @@ I build scalable backend systems, explore cloud architectures, and experiment wi
 [![AICTE Approved](https://img.shields.io/badge/AICTE%20%26%20ICAC-Approved-brightgreen?style=flat-square)](https://internship.aicte-india.org/)
 [![Google Partner](https://img.shields.io/badge/Google%20for%20Education-Partner-blue?style=flat-square&logo=google)](https://edu.google.com/)
 
-* **Program:** 1-Month AICTE & ICAC Approved Internship via National Internship Portal (Ministry of Education)[span_0](start_span)[span_0](end_span)
-* **Timeline:** 21/05/2026 – 10/06/2026[span_1](start_span)[span_1](end_span)
-* **AICTE Verification ID:** `CORPORATE6759d549ce59e1733940553`[span_2](start_span)[span_2](end_span)
+* **Program:** 1-Month AICTE & ICAC Approved Internship via National Internship Portal (Ministry of Education)
+* **Timeline:** 21/05/2026 – 10/06/2026
+* **AICTE Verification ID:** `CORPORATE6759d549ce59e1733940553`
 * **Core Responsibilities:**
   * Designed lightweight conversational AI architectures and intent-matching pipelines.
   * Engineered rule-based support bot modules with structured JSON response payloads.
@@ -98,6 +98,32 @@ I build scalable backend systems, explore cloud architectures, and experiment wi
 * **Core Competencies:** Verilog HDL, RTL Design, Combinational & Sequential Logic minimization, and Finite State Machines (FSM).
 
 [![View NPTEL Certificate](https://img.shields.io/badge/View_NPTEL_Certificate-Google_Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kUBNSIjP8ZnXqcnjrCgX9OQ1K1IABbzv/view?usp=drivesdk)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>4. NPTEL Certification | Advanced Distributed Systems</b> <i>(Jul 2026 – Oct 2026)</i></summary>
+<br/>
+
+[![NPTEL](https://img.shields.io/badge/NPTEL%20%2F%20SWAYAM-IIT_Certified-orange?style=flat-square)](https://nptel.ac.in/)
+[![IIT Madras](https://img.shields.io/badge/IIT_Madras-Certified-blue?style=flat-square)](https://www.iitm.ac.in/)
+[![Credits](https://img.shields.io/badge/Academic_Credits-4_Recommended-brightgreen?style=flat-square)](#)
+
+* **Issuing Authority:** NPTEL, Ministry of Education (Govt. of India) & IIT Madras[span_5](start_span)[span_5](end_span)
+* **Timeline:** Jul 2026 – Oct 2026 (12-Week Course)[span_6](start_span)[span_6](end_span)
+* **Roll Number / Verification ID:** `NPTEL26CS169S856502362`[span_7](start_span)[span_7](end_span)
+* **Score & Evaluation:** Consolidated Score: 55% | Online Assignments: 24.69/25[span_8](start_span)[span_8](end_span)
+* **Domain:** Distributed Algorithms, Consensus & Scalable Systems Architecture[span_9](start_span)[span_9](end_span)
+* **Core Competencies:**
+  * Clock Synchronization & Causality (Lamport Timestamps, Vector Clocks).
+  * Distributed Mutual Exclusion Algorithms (Ricart-Agarwala, Maekawa, Suzuki-Kasami Token).
+  * Leader Election & Spanning Trees (Chang-Roberts, GHS Distributed MST Algorithm).
+  * Global State Detection & Consistent Cut (Chandy-Lamport Snapshot Algorithm).
+  * P2P Overlay Networks & Distributed Hash Tables (Chord, Pastry, Epidemic/Gossip Protocols).
+
+[![View NPTEL Certificate](https://img.shields.io/badge/View_NPTEL_Certificate-Google_Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MprgssSnN4AzeIbco9cDvCB2oHcnZwZZ/view?usp=drivesdk)
 
 </details>
 
